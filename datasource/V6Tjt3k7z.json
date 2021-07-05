@@ -14,12 +14,14 @@
   "basicAuthPassword": "",
   "withCredentials": false,
   "isDefault": true,
-  "jsonData": {},
+  "jsonData": {
+    "timeout": -1
+  },
   "secureJsonData": {
-    "basicAuthPassword": "bWlEUjE1RzEvidQ/UYC2uw5bSI0Q4HyottsH1zqD3z6q7h9kX+7NerT2nLZhV07plYSdrvyYYXX9BdF8TdULaFwrGyqJ4/AYY6vFEanwyxCoQ91sFfcRy2vb6s3m1lmHp3jBA1+xzbID1z/ARUNNU+QFeAUWQEdr7oLuvQ=="
+    "basicAuthPassword": "ekVkV05PQkKT46NF1l21oYoRHPcQijTN6HJ206waWaTKU9l63UBzEha8ReKW4tYt9/GdUmi2oHLGabyKGfLGBpGwZxLlXu9bXTBt51hd3gk4P7XrqHQIhSYyBP6RTxfdG/0p/Hbgtl1HDqLlkW9DHU8YXmzlMkK+d8jRUQ=="
   },
   "readOnly": false,
   "uid": "V6Tjt3k7z",
-  "created": "2021-07-05T19:09:31+02:00",
-  "updated": "2021-07-05T19:10:40+02:00"
+  "created": "2021-07-05T19:11:58+02:00",
+  "updated": "2021-07-05T19:13:46+02:00"
 }
