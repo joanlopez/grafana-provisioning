@@ -1,0 +1,25 @@
+{
+  "id": 2,
+  "orgId": 1,
+  "version": 4,
+  "name": "GitLab",
+  "type": "grafana-gitlab-datasource",
+  "access": "proxy",
+  "url": "https://gitlab.com/api/v4/",
+  "password": "",
+  "user": "",
+  "database": "",
+  "basicAuth": false,
+  "basicAuthUser": "",
+  "basicAuthPassword": "",
+  "withCredentials": false,
+  "isDefault": false,
+  "jsonData": {},
+  "secureJsonData": {
+    "accessToken": "NVFEQ1R1SDlD6kidAolmoraWMNWRQTVX4nOuKqU4efPx+haRXZ7/TGnuEn8="
+  },
+  "readOnly": false,
+  "uid": "ynHv2qz7k",
+  "created": "2021-07-05T17:54:09+02:00",
+  "updated": "2021-07-05T18:19:03+02:00"
+}
