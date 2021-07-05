@@ -1,0 +1,23 @@
+{
+  "id": 1,
+  "orgId": 1,
+  "version": 3,
+  "name": "Loki",
+  "type": "loki",
+  "access": "proxy",
+  "url": "https://logs-prod-us-central1.grafana.net",
+  "password": "",
+  "user": "",
+  "database": "",
+  "basicAuth": true,
+  "basicAuthUser": "3965",
+  "basicAuthPassword": "",
+  "withCredentials": false,
+  "isDefault": true,
+  "jsonData": {},
+  "secureJsonData": {},
+  "readOnly": false,
+  "uid": "V6Tjt3k7z",
+  "created": "0001-01-01T00:00:00Z",
+  "updated": "2021-07-05T18:40:46.832926+02:00"
+}
