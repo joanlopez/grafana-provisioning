@@ -1,7 +1,7 @@
 {
   "id": 2,
   "orgId": 1,
-  "version": 4,
+  "version": 2,
   "name": "GitLab",
   "type": "grafana-gitlab-datasource",
   "access": "proxy",
@@ -15,11 +15,9 @@
   "withCredentials": false,
   "isDefault": false,
   "jsonData": {},
-  "secureJsonData": {
-    "accessToken": "NVFEQ1R1SDlD6kidAolmoraWMNWRQTVX4nOuKqU4efPx+haRXZ7/TGnuEn8="
-  },
+  "secureJsonData": {},
   "readOnly": false,
   "uid": "ynHv2qz7k",
-  "created": "2021-07-05T17:54:09+02:00",
-  "updated": "2021-07-05T18:19:03+02:00"
+  "created": "0001-01-01T00:00:00Z",
+  "updated": "2021-07-05T18:33:14.713782+02:00"
 }
