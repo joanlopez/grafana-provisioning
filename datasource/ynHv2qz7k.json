@@ -1,7 +1,7 @@
 {
   "id": 2,
   "orgId": 1,
-  "version": 4,
+  "version": 5,
   "name": "GitLab",
   "type": "grafana-gitlab-datasource",
   "access": "proxy",
@@ -19,5 +19,5 @@
   "readOnly": false,
   "uid": "ynHv2qz7k",
   "created": "0001-01-01T00:00:00Z",
-  "updated": "2021-07-05T18:41:46.038815+02:00"
+  "updated": "2021-07-05T18:43:08.651132+02:00"
 }
