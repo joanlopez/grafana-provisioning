@@ -1,7 +1,7 @@
 {
   "id": 1,
   "orgId": 1,
-  "version": 3,
+  "version": 2,
   "name": "Loki",
   "type": "loki",
   "access": "proxy",
@@ -15,9 +15,11 @@
   "withCredentials": false,
   "isDefault": true,
   "jsonData": {},
-  "secureJsonData": {},
+  "secureJsonData": {
+    "basicAuthPassword": "bWlEUjE1RzEvidQ/UYC2uw5bSI0Q4HyottsH1zqD3z6q7h9kX+7NerT2nLZhV07plYSdrvyYYXX9BdF8TdULaFwrGyqJ4/AYY6vFEanwyxCoQ91sFfcRy2vb6s3m1lmHp3jBA1+xzbID1z/ARUNNU+QFeAUWQEdr7oLuvQ=="
+  },
   "readOnly": false,
   "uid": "V6Tjt3k7z",
-  "created": "0001-01-01T00:00:00Z",
-  "updated": "2021-07-05T18:40:46.832926+02:00"
+  "created": "2021-07-05T19:09:31+02:00",
+  "updated": "2021-07-05T19:10:40+02:00"
 }
