@@ -4,10 +4,10 @@
   "Slug": "grafana-loki-dashboard-for-nginx-service-mesh",
   "OrgId": 1,
   "GnetId": 12559,
-  "Version": 10,
+  "Version": 12,
   "PluginId": "",
   "Created": "0001-01-01T00:00:00Z",
-  "Updated": "2021-07-05T18:36:34.049569+02:00",
+  "Updated": "2021-07-05T18:55:25.054602+02:00",
   "UpdatedBy": 1,
   "CreatedBy": 0,
   "FolderId": 0,
@@ -33,7 +33,7 @@
     "gnetId": 12559,
     "graphTooltip": 0,
     "id": 1,
-    "iteration": 1625502988537,
+    "iteration": 1625504121580,
     "links": [],
     "panels": [
       {
@@ -1908,6 +1908,6 @@
     "timezone": "",
     "title": "Grafana Loki Dashboard for NGINX Service Mesh",
     "uid": "FRiR2qznk",
-    "version": 10
+    "version": 12
   }
 }
