@@ -1,5 +1,5 @@
 {
-  "Id": 1,
+  "Id": 2,
   "Uid": "FRiR2qznk",
   "Slug": "grafana-loki-dashboard-for-nginx-service-mesh",
   "OrgId": 1,
@@ -7,7 +7,7 @@
   "Version": 2,
   "PluginId": "",
   "Created": "0001-01-01T00:00:00Z",
-  "Updated": "2021-07-05T23:00:53.121051+02:00",
+  "Updated": "2021-07-06T09:48:05.800985+02:00",
   "UpdatedBy": 1,
   "CreatedBy": 0,
   "FolderId": 0,
@@ -32,8 +32,8 @@
     "editable": true,
     "gnetId": 12559,
     "graphTooltip": 0,
-    "id": 1,
-    "iteration": 1625518834317,
+    "id": 2,
+    "iteration": 1625557667901,
     "links": [],
     "panels": [
       {
@@ -1889,7 +1889,7 @@
       ]
     },
     "time": {
-      "from": "now-6h",
+      "from": "now-1h",
       "to": "now"
     },
     "timepicker": {
